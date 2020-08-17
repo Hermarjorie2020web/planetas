@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image: url(https://www.ubackground.com/_ph/12/212930866.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color:#beaaf2
+}
+nav
+{
+    background-color:#ffffff;
+    padding: 0px;
+    color:  #d362e7;
+
+}
